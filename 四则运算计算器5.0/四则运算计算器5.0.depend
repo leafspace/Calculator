@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1419396663 source:e:\程序设计\c语言\程序\2014年\2014年九月后\计算器\四则运算计算器5.0\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1419228242 e:\程序设计\c语言\程序\2014年\2014年九月后\计算器\四则运算计算器5.0\head.h
+	<stdio.h>
+	<stdlib.h>
+
+1419396739 source:e:\程序设计\c语言\程序\2014年\2014年九月后\计算器\四则运算计算器5.0\function.c
+	<math.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+

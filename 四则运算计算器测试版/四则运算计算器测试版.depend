@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1419212481 source:c:\documents and settings\administrator\桌面\四则运算计算器测试版\function.c
+	<math.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1419208237 c:\documents and settings\administrator\桌面\四则运算计算器测试版\head.h
+	<stdio.h>
+	<stdlib.h>
+
+1419211716 source:c:\documents and settings\administrator\桌面\四则运算计算器测试版\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1419222598 source:c:\users\administrator\desktop\四则运算计算器测试版\function.c
+	<math.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1419221591 c:\users\administrator\desktop\四则运算计算器测试版\head.h
+	<stdio.h>
+	<stdlib.h>
+
+1419225378 source:c:\users\administrator\desktop\四则运算计算器测试版\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1419400422 source:e:\程序设计\c语言\程序\2014年\2014年九月后\计算器\四则运算计算器测试版\function.c
+	<math.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1419221591 e:\程序设计\c语言\程序\2014年\2014年九月后\计算器\四则运算计算器测试版\head.h
+	<stdio.h>
+	<stdlib.h>
+
+1419400538 source:e:\程序设计\c语言\程序\2014年\2014年九月后\计算器\四则运算计算器测试版\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
